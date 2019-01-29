@@ -1,0 +1,30 @@
+{
+    "dependencies": {
+        "adapt-contrib-vanilla": "2",
+        "adapt-contrib-text": "2",
+        "adapt-contrib-narrative": "2",
+        "adapt-contrib-media": "2",
+        "adapt-contrib-hotgraphic": "2",
+        "adapt-contrib-blank": "2",
+        "adapt-contrib-accordion": "2",
+        "adapt-contrib-graphic": "2",
+        "adapt-contrib-matching": "2",
+        "adapt-contrib-textInput": "2",
+        "adapt-contrib-mcq": "2",
+        "adapt-contrib-gmcq": "2",
+        "adapt-contrib-assessment": "2",
+        "adapt-contrib-assessmentResults": "2",
+        "adapt-contrib-trickle": "2",
+        "adapt-contrib-tutor": "2",
+        "adapt-contrib-boxMenu": "2",
+        "adapt-contrib-pageLevelProgress": "2",
+        "adapt-contrib-resources": "2",
+        "adapt-contrib-slider": "2",
+        "adapt-contrib-spoor": "2",
+        "adapt-contrib-bookmarking": "2",
+        "adapt-contrib-languagePicker": "1",
+        "adapt-next-button": "*",
+        "adapt-search": "*",
+        "adapt-iOSScrollFix": "*"
+    }
+}

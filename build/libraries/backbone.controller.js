@@ -1,0 +1,1 @@
+define("backbone.controller",["backbone","underscore"],function(e,n){var i=e.Controller=function(e){e||(e={}),n.extend(this,n.pick(e,t)),this.initialize.apply(this,arguments)},t=["model","collection"];n.extend(i.prototype,e.Events,{initialize:function(){}}),i.extend=e.View.extend});

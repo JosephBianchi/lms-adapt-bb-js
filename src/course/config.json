@@ -1,0 +1,63 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_logging": {
+    "_console": false,
+    "_level": null,
+    "_isEnabled": false
+  },
+  "__v": 0,
+  "_courseId": "5b241aea7c4380c30435cdb0",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isSkipNavigationEnabled": false,
+    "_isTextProcessorEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isEnabledOnTouchDevices": false,
+    "_isEnabled": false
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_id": "5b241aea7c4380c30435cdd0",
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": true,
+      "_requireAssessmentPassed": false,
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": false,
+      "_shouldRecordInteractions": true
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true
+    }
+  },
+  "_iosscrollfix": {
+      "_isEnabled": true,
+      "_onHTMLClasses": ".ios, .os-ios",
+  	"_isReflowFixEnabled": true,
+      "_isIFrameFixEnabled": true,
+      "_iFrameFixHeightTrim": 0
+  }
+}

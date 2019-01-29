@@ -1,0 +1,28 @@
+{
+  "name": "adapt-search",
+  "repository": "git://github.com/cgkineo/adapt-search",
+  "framework": ">=2.2",
+  "version": "2.3.0",
+  "homepage": "https://github.com/cgkineo/adapt-search",
+  "issues": "https://github.com/cgkineo/adapt-search/issues/",
+  "displayName": "Search",
+  "extension": "search",
+  "description": "Keyword-search extension for Adapt",
+  "main": "/js/adapt-search.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_search",
+  "_release": "2.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.0",
+    "commit": "a29a6f0e4907f47af1b80ef24d77e631693f19ba"
+  },
+  "_source": "git://github.com/cgkineo/adapt-search.git",
+  "_target": "^2.3.0",
+  "_originalSource": "adapt-search",
+  "_direct": true
+}

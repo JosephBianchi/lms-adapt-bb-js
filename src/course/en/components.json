@@ -1,0 +1,576 @@
+[
+  {
+    "_id": "c-80",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "b-100",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "summary (graphic)",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/three-healx-two.png",
+      "small": "course/en/assets/three-healx-two.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdc6",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b241aea7c4380c30435cdbf",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "summary (graphic)",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/summary.png",
+      "small": "course/en/assets/summary.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdc7",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b241aea7c4380c30435cdc0",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Table of Contents (sections)",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Section One",
+        "body": "<ul><li><a href=\"#/id/5b241aea7c4380c30435cdb5\">Lesson 1.0 - Overview</a></li><li><a href=\"#/id/5b241aea7c4380c30435cdb5\">Lesson 1.1 - Learn About HealX</a></li><li><a href=\"#/id/5b241aea7c4380c30435cdb6\">Lesson 1.2 - Learn About Patient Charts</a></li><li><a href=\"#/id/5b241aea7c4380c30435cdb7\">Lesson 1.3&nbsp;- Learn About Patient Assessment Style Guides</a></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": "hey"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Section Two",
+        "body": "<ul><li><a href=\"#\">Lesson 2.1 - Learn About This</a></li><li><a href=\"#\">Lesson 2.2 - Learn About That</a></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Section Three",
+        "body": "<ul><li><a href=\"#\">Lesson 3.1 - Learn About HealX</a></li><li><a href=\"#\">Lesson 3.2 - Learn About Patient Charts</a></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Section Four",
+        "body": "<ul>  <li>    <a href=\"#\">Lesson 4.1 - Learn About HealX</a>  </li>  <li>    <a href=\"#\">Lesson 4.2 - Learn About Patient Charts</a>  </li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdc8",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b241aea7c4380c30435cdc2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "Component",
+    "title": "Component",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "blank",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdc9",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b241aea7c4380c30435cdc1",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cover-train-trainer.png",
+      "small": "course/en/assets/cover-train-trainer.png",
+      "attribution": ""
+    }
+  },
+
+
+  {
+    "_id":"c-60",
+    "_parentId":"b-100",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"hide-on-mobile",
+    "_layout":"left",
+    "title":"HealX Bio-Compatible Markers",
+    "displayTitle":"HealX Bio-Compatible Markers",
+    "body":"<p><ul><li>FDA registered device</li><li>Calibrate the size and color of the wound</li><li>One-time use</li></ul></p><p><u>Place the HealX close to the wound</u><ol><li>On intact skin</li><li>On the same plane as the wound</li><li>Close to the wound's perimiter</li></ol></p>",
+    "instruction":""
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdcb",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b241aea7c4380c30435cdbe",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/first_page.png",
+      "small": "course/en/assets/first_page.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdcd",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b241aea7c4380c30435cdc3",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/one-intro.m4a",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "c-101",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "b-900",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/three-healx.m4a",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "c-100",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "b-700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/two-summary.m4a",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+
+  {
+    "_id":"5b241aea7c4380c30435cdce",
+    "_parentId":"5b241aea7c4380c30435cdc4",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+    "title":"Security",
+    "displayTitle":"Security",
+    "body":"<p><ul><li>Login with unique username and password for each individual</li><li>Images are kept secure and encrypted on the device</li><li>The lock screen will appear for further security boost</li></ul></p>",
+    "instruction":""
+  },
+
+  {
+    "_id": "5b241aea7c4380c30435cdcf",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "b-825",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/four-security.m4a",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id":"c-109",
+    "_parentId":"b-223",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"hide-on-mobile",
+    "_layout":"left",
+    "title":"Navigating Patient List",
+    "displayTitle":"Navigating Patient List",
+    "body":"<p><ul><li>FDA registered device</li><li>Calibrate the size and color of the wound</li><li>One-time use</li></ul></p><p><u>Place the HealX close to the wound</u><ol><li>On intact skin</li><li>On the same plane as the wound</li><li>Close to the wound's perimiter</li></ol></p>",
+    "instruction":""
+  },
+  {
+    "_id": "c-110",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "b-223",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/portrait-vid.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/patientlist.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "40%",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id":"c-105",
+    "_parentId":"b-833",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"hide-on-mobile",
+    "_layout":"left",
+    "title":"Add a New Wound Assessment",
+    "displayTitle":"Add a New Wound Assessment",
+    "body":"<p><ul><li>FDA registered device</li><li>Calibrate the size and color of the wound</li><li>One-time use</li></ul></p><p><u>Place the HealX close to the wound</u><ol><li>On intact skin</li><li>On the same plane as the wound</li><li>Close to the wound's perimiter</li></ol></p>",
+    "instruction":""
+  },
+  {
+    "_id": "c-106",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "b-833",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/video-w-voice.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/patientlist.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "40%",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  }
+]

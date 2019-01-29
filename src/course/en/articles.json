@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "5b241aea7c4380c30435cdb8",
+    "_type": "article",
+    "_parentId": "5b241aea7c4380c30435cdb5",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article"
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdb9",
+    "_type": "article",
+    "_parentId": "5b241aea7c4380c30435cdb6",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article"
+  },
+  {
+    "_id": "a-50",
+    "_type": "article",
+    "_parentId": "co-20",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article"
+  },
+  {
+    "_id": "a-55",
+    "_type": "article",
+    "_parentId": "co-25",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article"
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdba",
+    "_type": "article",
+    "_parentId": "5b241aea7c4380c30435cdb1",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Lessons"
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdbb",
+    "_type": "article",
+    "_parentId": "5b241aea7c4380c30435cdb2",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Swift100: Train The Trainer",
+    "title": "Article title"
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdbc",
+    "_type": "article",
+    "_parentId": "5b241aea7c4380c30435cdb4",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title"
+  },
+  {
+    "_id": "5b241aea7c4380c30435cdbd",
+    "_type": "article",
+    "_parentId": "5b241aea7c4380c30435cdb7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title"
+  },
+  {
+    "_id": "a-100",
+    "_type": "article",
+    "_parentId": "co-50",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title"
+  }
+]
